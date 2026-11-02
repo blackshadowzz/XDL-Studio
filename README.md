@@ -1,2 +1,2 @@
 # XDL-Studio
-XDL Studio download 
+XDL Studio Center Media platform downloader.
